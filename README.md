@@ -52,7 +52,7 @@ Visit `http://localhost:8501` in your web browser to use the Media Maven App loc
 
 ## Contact
 
-If you have any questions, suggestions, or issues, please feel free to contact me at hitendra369432@gmail.com.
+If you have any questions, suggestions, or issues, please feel free to contact me at selfmanish01@gmail.com.
 
 ---
 
